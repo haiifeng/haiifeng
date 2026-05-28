@@ -42,8 +42,9 @@ I build modern software at the intersection of AI, frontend engineering, and pro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haiifeng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiifeng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/haiifeng?style=for-the-badge&color=38BDF8&labelColor=0D1117&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/haiifeng?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A78BFA&labelColor=0D1117&logo=github" alt="GitHub stars" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Frontend-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Focus: AI and Frontend" />
 
 </div>
 
