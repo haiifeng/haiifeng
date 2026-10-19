@@ -10,7 +10,7 @@
 
 ## About Me
 
-I build modern software at the intersection of AI, frontend engineering, and product design.
+I build modern software at the intersection of AI, test engineering, frontend engineering, and product design.
 
 - Focused on AI-native products, polished web interfaces, and practical engineering systems
 - Comfortable moving from idea exploration to production-ready implementation
