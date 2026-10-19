@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:7C3AED&height=230&section=header&text=Haiifeng&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Product-minded%20Builder&descSize=17&descAlignY=58" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:7C3AED&height=230&section=header&text=Haiifeng&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Test%20Development%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Product%20Designer&descSize=14&descAlignY=58" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-powered+web+experiences;Crafting+frontend+interfaces+with+taste;React+%2F+Next.js+%2F+TypeScript;Turning+ideas+into+usable+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-assisted+engineering+workflows;Engineering+quality+with+pytest+%2F+Playwright+%2F+k6;Crafting+frontend+interfaces+with+taste;Turning+ideas+into+usable+products" alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,10 @@
 
 I build modern software at the intersection of AI, test engineering, frontend engineering, and product design.
 
-- Focused on AI-native products, polished web interfaces, and practical engineering systems
-- Comfortable moving from idea exploration to production-ready implementation
-- Interested in interfaces that feel fast, clear, and quietly intelligent
+- **AI Engineering** — reusable skills and workflows for test strategy, case generation, and defect analysis
+- **Test Development** — API automation, end-to-end testing, performance analysis, and regression planning
+- **Frontend Development** — React, Next.js, and TypeScript interfaces that feel fast and clear
+- **Product Design** — turning requirements and user journeys into practical, usable experiences
 
 ---
 
@@ -22,17 +23,43 @@ I build modern software at the intersection of AI, test engineering, frontend en
 
 <div align="center">
 
-### Frontend
+### AI Engineering
+
+<img src="https://skillicons.dev/icons?i=python" alt="AI engineering skills" />
+
+Reusable skills · Prompt engineering · Test strategy · Defect analysis
+
+### Test Development
+
+<img src="https://skillicons.dev/icons?i=python,ts,js" alt="Test development languages" />
+
+pytest / Requests · Playwright · k6 · Boundary & concurrency testing
+
+Financial reconciliation · Performance analysis · Regression planning
+
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" alt="Frontend skills" />
 
-### Backend, AI & Data
+Web applications · Component systems · Responsive interfaces
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,go,postgres,redis,docker" alt="Backend and AI skills" />
+### Product Design
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Product design skills" />
+
+Requirements analysis · User flows · Interaction design
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,go,postgres,redis,docker" alt="Backend and data skills" />
+
+Services · Data storage · Containerized environments
 
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux" alt="Tools" />
+
+Version control · Development tools · Deployment
 
 </div>
 
@@ -44,7 +71,7 @@ I build modern software at the intersection of AI, test engineering, frontend en
 
 <img src="https://img.shields.io/github/followers/haiifeng?style=for-the-badge&color=38BDF8&labelColor=0D1117&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/haiifeng?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A78BFA&labelColor=0D1117&logo=github" alt="GitHub stars" />
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Frontend-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Focus: AI and Frontend" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Test%20Development%20%2B%20Frontend%20%2B%20Product%20Design-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Focus: AI, Test Development, Frontend, Product Design" />
 
 </div>
 
